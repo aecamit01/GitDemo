@@ -39,6 +39,7 @@ public class DemoTest {
 					System.out.println("multi");
 					System.out.println("DIV1");
 					System.out.println("DIV2");
+					System.out.println("DIV3");
 					int a=10;
 					int b=20;
 					AssertJUnit.assertEquals(200, a*b);
