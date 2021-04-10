@@ -20,6 +20,7 @@ public class DemoTest {
 		public void div()
 		{
 			System.out.println("DIV");
+			System.out.println("DIV1");
 			int a=10;
 			int b=20;
 			AssertJUnit.assertEquals(2, b/a);
