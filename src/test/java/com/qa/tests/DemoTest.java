@@ -47,6 +47,8 @@ public class DemoTest {
 					System.out.println("DIV6");
 					System.out.println("DIV11");
 					System.out.println("DIV10");
+					System.out.println("DIV13");
+					System.out.println("DIV12");
 					
 					int a=10;
 					int b=20;
